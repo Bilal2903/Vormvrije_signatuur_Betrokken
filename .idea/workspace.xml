@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00fac52d-cb83-468e-b282-5240b2756fe2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="00fac52d-cb83-468e-b282-5240b2756fe2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,11 +51,23 @@
       <updated>1686751229649</updated>
       <workItem from="1686751230762" duration="887000" />
       <workItem from="1686752879740" duration="2672000" />
-      <workItem from="1686755620693" duration="8846000" />
+      <workItem from="1686755620693" duration="9488000" />
     </task>
+    <task id="LOCAL-00001" summary="Vormvrije signatuur done">
+      <created>1686764520463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686764520463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vormvrije signatuur done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vormvrije signatuur done" />
   </component>
 </project>
